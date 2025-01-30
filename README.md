@@ -20,7 +20,6 @@ A mentoria será dividida em módulos práticos e teóricos, incluindo:
 3. **Modelos preditivos na saúde**
 4. **Interpretação de modelos e ética em IA na saúde**
 5. **Deploy e integração de soluções em ambientes hospitalares**
-6. **Projeto final aplicado**
 
 ## Ferramentas e Tecnologias
 Os participantes aprenderão a utilizar tecnologias como:
