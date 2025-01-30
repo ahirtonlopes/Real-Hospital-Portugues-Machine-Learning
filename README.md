@@ -25,11 +25,3 @@ A mentoria será dividida em módulos práticos e teóricos, incluindo:
 Os participantes aprenderão a utilizar tecnologias como:
 - **Linguagens:** Python
 - **Bibliotecas:** TensorFlow, Keras, Scikit-learn, Pandas, Matplotlib
-- **Plataformas:** Google Cloud, Azure AI, Jupyter Notebooks
-
-## Certificação
-Ao final do programa, os participantes receberão um certificado de conclusão, mediante a entrega e avaliação do projeto final.
-
-## Como Participar
-Para mais informações sobre inscrição e datas do programa, entre em contato pelo e-mail: [seuemail@dominio.com] ou acesse [seu site ou link].
-
