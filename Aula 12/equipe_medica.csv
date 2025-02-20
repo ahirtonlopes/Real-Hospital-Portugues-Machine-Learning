@@ -1,0 +1,21 @@
+Médico_ID,Nome,Especialidade,Horas Trabalhadas,Atendimentos Realizados,Nota de Satisfação dos Pacientes
+1,Dr. Ferreira,Neurologia,23,35,3.3
+2,Dr. Silva,Cardiologia,71,34,3.7
+3,Dr. Souza,Ortopedia,60,28,3.1
+4,Dr. Silva,Neurologia,59,48,3.8
+5,Dr. Oliveira,Neurologia,20,36,3.4
+6,Dr. Oliveira,Pediatria,56,12,3.6
+7,Dr. Silva,Neurologia,43,40,3.8
+8,Dr. Oliveira,Neurologia,46,15,3.4
+9,Dr. Silva,Pediatria,22,29,3.6
+10,Dr. Silva,Pediatria,66,33,4.4
+11,Dr. Oliveira,Neurologia,47,14,3.7
+12,Dr. Souza,Pediatria,34,15,3.9
+13,Dr. Santos,Cardiologia,28,13,3.3
+14,Dr. Ferreira,Ortopedia,59,43,3.6
+15,Dr. Souza,Cardiologia,74,26,3.8
+16,Dr. Silva,Cardiologia,65,15,3.5
+17,Dr. Santos,Cardiologia,45,18,3.3
+18,Dr. Ferreira,Pediatria,53,19,4.0
+19,Dr. Silva,Neurologia,37,30,3.5
+20,Dr. Souza,Pediatria,25,16,4.7
